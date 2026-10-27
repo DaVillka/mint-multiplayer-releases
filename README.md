@@ -26,12 +26,6 @@ This repository hosts official MiNT Multiplayer releases.
 - **Server:** Windows x64; Ubuntu 24.04 x64 is available as a preview.
 - **C#:** server-side only.
 
-GTA V Enhanced, Steam/Epic editions, and other game builds are not currently declared supported.
-
-The default startup mode requires an activated game and a saved Social Club profile. See the documentation for alternative startup settings.
-
-Use the client, server, and language modules from the same MiNT release. Changes to startup-loaded game content require a full GTA restart.
-
 ## Download and get started
 
 1. Open the [latest release](https://github.com/DaVillka/mint-multiplayer-releases/releases/latest).
